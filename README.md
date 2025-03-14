@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Chetna Serene! 👋
 
-<!--
-**Chetnaserene/Chetnaserene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🌱 I’m currently learning **Web Development** and **Data Structures**.
+- 💻 I love building projects and solving problems.
+- 📫 How to reach me: chetnacodes@gmail.com)
 
-Here are some ideas to get you started:
+## Skills
+- **Front-End Development:** HTML, CSS, JavaScript, React
+- **Back-End Development:** Node.js, Express, MongoDB
+- **Tools:** Git, VS Code,
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Projects
+- [Project 1](#) - Short description of the project.
+- [Project 2](#) - Short description of the project.
+
+## GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chetnaserene&show_icons=true&theme=radical)
+
+## Let's Connect
+- [LinkedIn](#)
+- [Twitter](#)
+
+
+
+
+
+
+
+
+
+
+
+
+
 -->

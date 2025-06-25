@@ -1,4 +1,4 @@
-# Hi, I'm Chetna Serene! 👋
+# Hi, I'm Chetna ! 👋
 
 ## About Me
 - 🌱 I’m currently learning **Web Development** and **Data Structures**.

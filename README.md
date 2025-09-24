@@ -14,8 +14,6 @@
 - [Project 1](#) - Short description of the project.
 - [Project 2](#) - Short description of the project.
 
-## GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chetnaserene&show_icons=true&theme=radical)
 
 ## Let's Connect
 - [LinkedIn](#)
